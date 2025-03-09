@@ -4,7 +4,7 @@ html{
     font-family: 'Sawarabi Mincho', serif;
 }
 body{
-    background-image: url(/images/sora.jpg);
+    background-image: url(images/sora.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
